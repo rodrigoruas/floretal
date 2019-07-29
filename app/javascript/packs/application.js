@@ -16,4 +16,5 @@
 // const imagePath = (name) => images(name, true)
 
 console.log('Hello World from Webpacker')
+console.log('Hello Hugooo')
 import "./test"
